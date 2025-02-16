@@ -9,7 +9,7 @@
 
 - 💡 Love designing ****beautiful, responsive, and user-friendly interfaces****
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
