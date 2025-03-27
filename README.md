@@ -8,7 +8,16 @@
 - 🌱 I’m currently Exploring **Next.js Node.js,Express.js**
 
 - 💡 Love designing ****beautiful, responsive, and user-friendly interfaces****
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="rudakksh-kumar09" /></p>    
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=R0h1tAnand&theme=tokyonight-duo" alt="rudakksh-kumar09" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
 </p>
