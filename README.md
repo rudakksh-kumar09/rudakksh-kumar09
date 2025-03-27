@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="rudakksh-kumar09" /></p>    
+      <img src="https://github-readme-stats.vercel.app/api?username=rudakksh-kumar09&show_icons=true&locale=en&theme=tokyonight" alt="rudakksh-kumar09" /></p>    
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=R0h1tAnand&theme=tokyonight-duo" alt="rudakksh-kumar09" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rudakksh-kumar09&theme=tokyonight-duo" alt="rudakksh-kumar09" />
     </td>
   </tr>
 </table>
