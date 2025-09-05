@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 Currently working on **open-source projects** and building my **personal portfolio website**
+- 🔭 Currently working on **Real projects** 
 
 - ⚙️ Skilled in **HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, and Next.js**
 
