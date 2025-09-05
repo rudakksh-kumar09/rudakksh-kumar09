@@ -9,19 +9,18 @@
 
 - 🚀 Always eager to take on new challenges and build impactful web applications
 
+- 🌐 Check out my portfolio: [**Portfolio Website**](https://portfolio-website-indol-eta.vercel.app/)
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rudakksh-kumar09&show_icons=true&locale=en&theme=tokyonight" alt="rudakksh-kumar09" /></p>    
+      <img src="https://github-readme-stats.vercel.app/api?username=rudakksh-kumar09&show_icons=true&locale=en&theme=tokyonight" alt="rudakksh-kumar09" />    
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=rudakksh-kumar09&theme=tokyonight-duo" alt="rudakksh-kumar09" />
     </td>
   </tr>
 </table>
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
